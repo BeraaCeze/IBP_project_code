@@ -1,0 +1,4 @@
+Database Name : "kan_bagisi"
+Compress node_modules.zip and vendor.zip
+Run project With "php artisan serve"
+Insert defualt data with "php artisan DB:seed"
